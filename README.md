@@ -11,6 +11,7 @@ Team lead at [24h.tv](https://24h.tv/), transferring ideas to reality scince 201
 Leading a team of tech-savvy individuals. Making bleeding-edge IPTV.
 
 Mostly doing following stuff:
+- Managing half-remote team
 - Sprint planning
 - Task decomposition
 - Inbox processing
@@ -28,6 +29,7 @@ Achieving following goals:
 Making a bleeding-edge IPTV platform. Django and DRF with a couple of Python-based Microservices.
 
 Mostly doing following stuff:
+- Telecommuting and working on-site;
 - Making complicated buisness logics appear on the RESTful APIs;
 - Befriending Microservices with each other;
 - Working with ORM and optimising DB requests to reach performance requirements;
