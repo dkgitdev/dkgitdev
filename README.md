@@ -2,9 +2,9 @@
 Team lead at [24h.tv](https://24h.tv/), transferring ideas to reality scince 2017
 
 ## Contacts
-Telegram: [@DarkHPnk](https://t.me/DarkHPnk)
-LinkedIn: [dkdev](https://www.linkedin.com/in/dkdev/)
-Email: me@dkdev.ru
+- Telegram: [@DarkHPnk](https://t.me/DarkHPnk)
+- LinkedIn: [dkdev](https://www.linkedin.com/in/dkdev/)
+- Email: me@dkdev.ru
 
 ## Professional history
 ### [Dec 2021 -- now] Team lead at [24h.tv](https://24h.tv/)
